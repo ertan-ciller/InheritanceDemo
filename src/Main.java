@@ -5,6 +5,9 @@ public class Main {
         krediUI.KrediHesapla(new OgretmenKrediManager());
 
 
+        //Hello
+
+
 
     }
 }
